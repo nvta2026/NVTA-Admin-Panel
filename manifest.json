@@ -1,0 +1,25 @@
+{
+  "name": "NVTA Admin Panel",
+  "short_name": "NVTA Admin",
+  "description": "NVTA Administration Dashboard",
+  "start_url": "/NVTA-Admin-Panel/",
+  "scope": "/NVTA-Admin-Panel/",
+  "display": "standalone",
+  "background_color": "#1a237e",
+  "theme_color": "#1a237e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/NVTA-Admin-Panel/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/NVTA-Admin-Panel/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
